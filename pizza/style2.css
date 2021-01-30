@@ -1,0 +1,192 @@
+ /*@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');*/
+ *{
+	margin: 0;
+	padding: 0;
+    font-family: 'proxima_nova_altlight';
+}
+.container{
+	height: 100vh;
+	widows: 100%;
+}
+
+@font-face {
+    font-family: 'proxima_nova_altlight';
+    src: url('proxima_nova_alt_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.row{
+	display: flex;
+}
+.right{
+	height: 570px;
+	width: 650px;
+	box-shadow: 0 2px 20px #333;
+	margin-top: 120px;
+	margin-left: 380px;
+}
+.row-2{
+  padding: 20px;
+  text-align: center;
+  display: flex;
+}
+#three{
+	padding-top: 25px;
+	padding-left: 38px;
+}
+.img1{
+	padding: 20px;
+	width: 80px;
+}
+.img2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 30px;
+}
+.img3{
+	padding-top: 20px;
+	width: 30px;
+}
+
+.p2{
+	color: #686B78;
+	font-size: 15px;
+	padding-top: 4px;
+	padding-bottom: 3px;
+}
+.img4{
+  width: 158px;
+}
+.img5{
+  width: 158px;
+}
+.img6{
+  width: 158px;
+}
+.img7{
+  width: 158px;
+}
+.img8{
+  width: 158px;
+}
+.img9{
+  width: 158px;
+}
+.p1{
+	color: #686B78;
+	font-size: 13px;
+	padding-top: 5px;
+	padding-bottom: 21.5px;
+    text-align: left;
+}
+
+.left{
+	height: 470px;
+	width: 360px;
+	box-shadow:  0 4px 7px 0 rgb(218 220 230 / 60%);
+	margin-top: 170px;
+    transform: translateX(-10%);
+    background-color: #fff;
+}
+
+.img10{
+	width: 320px;
+	height: 200px;
+	padding: 18px;
+}
+.left h4{
+	font-size: 17px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	letter-spacing: 0.7px;
+	padding-left: 26px;
+}
+.p3{
+   color: #686B78;
+   font-size: 13px;
+   padding-bottom: 15px;
+   padding-left: 21px;
+}
+.row-3{
+	display: flex;
+	margin-bottom: 12px;
+}
+.col-sm-2{
+	margin-top: 10px;
+	display: flex;
+	margin-left: 20px;
+}
+.p4{
+	color: #fff;
+	background: #48C479;
+	padding-top: 9px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 13px;
+	letter-spacing: 0.8px;
+}
+#dot{
+	font-size: 4px;
+	padding-right: 8px;
+}
+
+.p5{
+	color: #555;
+	font-size: 13px;
+	padding-top: 5px;
+}
+.p6{
+	color: #555;
+	font-size: 13px;
+	padding-top: 8px;
+}
+.p8{
+	color: #555;
+	font-size: 13px;
+	padding-top: 5px;
+}
+.p9{
+	color: #555;
+	font-size: 13px;
+	padding-top: 8px;
+}
+
+#line{
+	margin-right: 21px;
+	margin-left: 21px;
+	height: .5px;
+	background-color: #535665;
+	border: none;
+	margin-bottom: 8px;
+	margin-top: 4px;
+}
+
+.p7{
+	color: #8A584B;
+	letter-spacing: 0.8px;
+	padding-left: 26px;
+	font-size: 17px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	/*margin-top: 8px;
+	margin-bottom: 8px;*/
+}
+#st{
+	color: #535665;
+	margin-top: 20px;
+	padding-left: 132px;
+    font-size: 13px;
+    letter-spacing: 0.8px;
+}
+
+
+
+
+
+
+
+
+
+
